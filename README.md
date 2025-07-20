@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Sanket Shinde, a sophomore pursuing Information Technology Engineering at Pune Institute of Computer Technology.
+👋 Hello everyone, I'm Sanket Shinde.
 
-🚀 I have a strong interest in Web Development and Machine Learning, with a solid foundation in Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOP).
+🚀 I'm an Engineering Undergraduate specializing in Information Technology at Pune Institute of Computer Technology. A strong academic performer, I’m deeply passionate about Data Structures and Algorithms (DSA) and continuously improving my skills in web development. I’m also keenly exploring the fields of Artificial Intelligence and Machine Learning (AI/ML), along with a growing interest in DevOps and cloud-native technologies. Always eager to learn and take on new challenges, I aim to build impactful tech solutions and grow as a well-rounded developer.
 
 💡 Always eager to learn and build innovative solutions!
 
