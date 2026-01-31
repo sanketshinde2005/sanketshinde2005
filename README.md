@@ -27,13 +27,17 @@ Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sanket-shinde-067650288/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue" />
   </a>
   <a href="mailto:sanketshinde1827@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=green" />
   </a>
   <a href="https://www.instagram.com/sanket_shinde1310">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=red" />
+  </a>
+  </a>
+  <a href="https://open.spotify.com/user/31t4wmypanrkvgjfaghjdoaiak6y?si=29b7e285bd624fa2">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Spotify&logoColor=black" />
   </a>
 </p>
 
