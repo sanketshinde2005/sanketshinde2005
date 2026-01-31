@@ -94,9 +94,9 @@ Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
 
 ## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sanketshinde2005&show_icons=true&theme=dark&hide_border=false)
-![](https://streak-stats.demolab.com?user=sanketshinde2005&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshinde2005&layout=compact&theme=dark&hide_border=false&langs_count=8&hide=css,html)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanketshinde2005&show_icons=true&theme=dark)
+![](https://streak-stats.demolab.com?user=sanketshinde2005&theme=dark)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanketshinde2005&layout=compact&theme=dark&hide=css,html)
 
 ---
 
