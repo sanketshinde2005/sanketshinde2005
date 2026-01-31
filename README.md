@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Sanket Shinde</h1>
+<h1 align="center">👋🏻 Hello, Sanket Shinde Here</h1>
 <h3 align="center">
 Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
 </h3>
@@ -73,12 +73,11 @@ Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=sanketshinde2005&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanketshinde2005&theme=dark&hide_border=false)
-
-> ⚠️ *GitHub language statistics are based on repository code size and do not represent skill proficiency.*
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshinde2005&layout=compact&theme=dark&hide_border=false&langs_count=8&hide=css,html)
 
 ---
 
