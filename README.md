@@ -4,7 +4,7 @@ Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
 </h3>
 
 <p align="center">
-  <a href="https://sanket-portfolio-seven.vercel.app/">🌐 Portfolio</a> •
+  <a href="http://sanketshinde.in/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/sanket-shinde-067650288/">💼 LinkedIn</a> •
   <a href="mailto:sanketshinde1827@gmail.com">📧 Email</a>
 </p>
@@ -23,7 +23,7 @@ Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://sanket-portfolio-seven.vercel.app/">
+  <a href="http://sanketshinde.in/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sanket-shinde-067650288/">
