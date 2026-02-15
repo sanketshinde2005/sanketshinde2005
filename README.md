@@ -104,6 +104,8 @@ Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sanketshinde2005&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanketshinde2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 <!-- Proudly crafted by Sanket Shinde -->
