@@ -14,7 +14,7 @@ Full Stack Developer | DSA Enthusiast | AI/ML Explorer | Cloud-Native Learner
 ## 💫 About Me
 
 🎓 Engineering Undergraduate specializing in **Information Technology** at **Pune Institute of Computer Technology (PICT)**.  
-💡 Strong foundations in **Data Structures & Algorithms (DSA)** and **backend-heavy full-stack development**.
+💡 Strong foundations in **Data Structures & Algorithms (DSA)** and **backend-heavy full-stack development**.  
 🚀 Actively exploring **AI/ML**, **Large Language Models (LLMs)**, **Deep Learning**, **DevOps**, and **cloud-native architectures**.  
 ⚙️ Passionate about building **scalable, production-ready systems** and solving real-world engineering problems.
 
